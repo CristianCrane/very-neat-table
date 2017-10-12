@@ -22,7 +22,7 @@ We want the class to be able to do the following things:
 - A.find(int i) will return true if i is in A and false otherwise.
 
 The Constraints
-a. function add() should work in time proportional to m+n. 
-b. function getMin() should work in time proportional to m+n. 
-c. function sort() should work in time proportional to n
-d. function find() should work in time proportional to m+n. 
+- function add() should work in time proportional to m+n. 
+- function getMin() should work in time proportional to m+n. 
+- function sort() should work in time proportional to n
+- function find() should work in time proportional to m+n. 
